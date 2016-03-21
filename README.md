@@ -1,8 +1,8 @@
 # pldiiw.github.io
 
-[Semistandard's Code Style][semi]
-[Code Climate][cc]
-[Project Status][status]
+[![Semistandard's Code Style][semi]](https://github.com/Flet/semistandard)
+[![Code Climate][cc]](https://codeclimate.com/github/pldiiw/pldiiw.github.io)
+![Project Status][status]
 
 As you may already understood it, this my \*.github.io website.  
 It is done with the purpose of experimenting with [Atomic Design][atomic-design].
